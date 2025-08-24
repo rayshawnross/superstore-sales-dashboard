@@ -45,7 +45,7 @@ The goal is to practice **data cleaning, PivotTables, and dashboards** while ana
 
 ## 📸 Dashboard Preview
 
-
+Screenshot 2025-08-24 at 6.26.23 PM.jpeg
 ---
 
 ## 🚀 How to Use
