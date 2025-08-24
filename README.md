@@ -44,8 +44,6 @@ The goal is to practice **data cleaning, PivotTables, and dashboards** while ana
 ---
 
 ## 📸 Dashboard Preview
-
-## 📸 Dashboard Preview
 ![Superstore Dashboard](dashboard.jpeg)
 
 ---
